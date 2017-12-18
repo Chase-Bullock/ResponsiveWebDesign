@@ -102,23 +102,18 @@
     <div class="row portfolio-all">
 
 
-      <div class="col  span-1-of-3 box js-portfolio-1">
+      <div class="col span-1-of-3 box js-portfolio-1">
         <a href="http://www.chase-bullock.website">
           <img src="./resources/css/img/foodsite1-min.png" alt="food site">
         </a>
       </div>
 
       <div class="col span-1-of-3 box js-portfolio-2">
-        <a href="http://www.chase-bullock.website">
-          <img src="./resources/css/img/foodsite1-min.png" alt="food site">
+        <a href="http://www.chase-bullock.website/natours">
+          <img src="./resources/css/img/natours-2-min.png" alt="nature site">
         </a>
       </div>
 
-      <div class="col span-1-of-3 box js-portfolio-3">
-        <a href="http://www.chase-bullock.website">
-          <img src="./resources/css/img/foodsite1-min.png" alt="food site">
-        </a>
-      </div>
 
     </div>
   </section>
